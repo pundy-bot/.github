@@ -1,3 +1,3 @@
 # .github
 
-**github** special repository.
+`github` special repository.
